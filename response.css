@@ -1,23 +1,6 @@
-@media (min-width:320px) and (max-width:575.99px){
+/* @media (min-width:320px) and (max-width:575.99px){
 
     /* ===========nav s=========== */
-.navbar .navbar-nav {
-	border-radius: 15px;
-    background: rgba(15, 23, 42, 0.95);
-    backdrop-filter: blur(10px);
-    padding: 20px;
-	align-items: center;
-  }
-.nav-link {
-	color: #1664b3 !important;
-
-}
-.nav-btn{
-	display: inline-block !important;
-    margin-left: 65px;
-}
-
-
 
 
 
@@ -29,101 +12,13 @@
 
     /* ===========nav e=========== */
     /* ===========hero s=========== */
-.hero {
-	position: relative;
-	height: 0px !important;
-	/* overflow: hidden; */
-}
-.herobg {
-	position: absolute;
-	width: 100%;
-	height: auto !important;
-	object-fit: cover;
-	top: 0;
-	left: 0;
-	z-index: -1;
-}
-.hero h1 {
-	font-family: "Vollkorn", serif;
-	font-weight: 700;
-	font-size: 27px !important;
-	color: rgb(210, 19, 19) !important;
-	padding-top: 0px !important;
-	padding-left: 88px;
-}
-.hero p {
-	font-family: "jost", serif;
-	font-weight: 400;
-	font-size: 11px !important;
-	color: rgba(255, 255, 255, 1);
-	padding-left: 88px ;
-	line-height: 14px !important;
-	width: 294px;
-}
-.hero .herobtn {
-	font-size: 11px !important;
-	font-weight: 400;
-	font-family: "Jost", sans-serif;
-	background: rgba(229, 116, 93, 1);
-	padding: 7px 25px !important;
-	border: 4px solid rgba(229, 116, 93, 1);
-	box-shadow: inset 0 0 0 2px white;
-	display: inline-block;
-	margin-left: 83px;
-	margin-top: 2px !important;
-}
-
 
 
 
 
     /* ===========hero e=========== */
     /* ===========service=========== */
-.service .my-service h2 {
-	font-size: 13px !important;
-}
-.service .my-service h1 {
-	font-size: 24px !important;
-	padding-bottom: 20px !important;
-	text-align: center;
-	color: rgba(0, 65, 61, 1);
-}
-.card-img, .card-img-bottom, .card-img-top {
-	margin-top: 11px;
-	margin-left: 26px;
-	/* margin-bottom: 27px; */
-}
-.service .card {
-	margin-bottom: 35px;
-width: 93% !important;
-    box-shadow: 0px 0px 10px #ab2e2e66;
-    /* margin: 0px 10px; */
-    margin-bottom: 46px !important;
-    
-}
-.card-img, .card-img-bottom, .card-img-top {
-	margin-top: 24px;
-	margin-bottom: 3px;
-}
-.service .card {
-	width: auto !important;
-	margin-bottom: 120px;
-	border: none;
-	box-shadow: 0px 0px 10px black;
-    margin: 10px 17px !important;
-}
-.card-img, .card-img-bottom, .card-img-top {
-	width: 32% !important;
-	margin-top: 18px !important;
-	margin-left: 18px !important;
-	margin-bottom: -7px !important;
-}
-.card-body {
-	padding-left: 22px !important;
-}
-.card .card-text {
-	margin-top: 8px !important;
-}
+
 
 
     /* ===========service e=========== */
